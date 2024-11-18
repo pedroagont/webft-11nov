@@ -1,0 +1,23 @@
+{
+  "name": "w02d01",
+  "version": "1.0.0",
+  "description": "Learning mocha and chai testing",
+  "main": "say-hello.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "testing",
+    "mocha",
+    "chai"
+  ],
+  "author": "Pedro González",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.5.0",
+    "mocha": "^10.8.2"
+  }
+}
